@@ -1,0 +1,5 @@
+{
+  "name": "DAION",
+  "description": "An autonomous AI agent interface that simulates long-running product development cycles, building, testing, and refining software based on user prompts.",
+  "requestFramePermissions": []
+}
